@@ -1,19 +1,21 @@
-# c-lightning: A specification compliant Lightning Network implementation in C
+# c-lightning: A specification compliant Lightning Network implementation in C with Beyondcoin support
 
 c-lightning is a lighweight, highly customizable and [standard compliant][std] implementation of the Lightning Network protocol.
 
-* [Getting Started](#getting-started)
-    * [Installation](#installation)
-    * [Starting lightningd](#starting-lightningd)
-    * [Using the JSON-RPC Interface](#using-the-json-rpc-interface)
-    * [Care And Feeding Of Your New Lightning Node](#care-and-feeding-of-your-new-lightning-node)
-    * [Opening A Channel](#opening-a-channel)
-	* [Sending and Receiving Payments](#sending-and-receiving-payments)
-	* [Configuration File](#configuration-file)
-* [Further Information](#further-information)
-    * [Pruning](#pruning)
-    * [HD wallet encryption](#hd-wallet-encryption)
-	* [Developers](#developers)
+- [c-lightning: A specification compliant Lightning Network implementation in C with Beyondcoin support](#c-lightning-a-specification-compliant-lightning-network-implementation-in-c-with-beyondcoin-support)
+  - [Project Status](#project-status)
+  - [Getting Started](#getting-started)
+    - [Installation](#installation)
+    - [Starting `lightningd`](#starting-lightningd)
+    - [Using The JSON-RPC Interface](#using-the-json-rpc-interface)
+    - [Care And Feeding Of Your New Lightning Node](#care-and-feeding-of-your-new-lightning-node)
+    - [Opening A Channel](#opening-a-channel)
+    - [Sending and Receiving Payments](#sending-and-receiving-payments)
+  - [Configuration File](#configuration-file)
+  - [Further information](#further-information)
+    - [Pruning](#pruning)
+    - [HD wallet encryption](#hd-wallet-encryption)
+    - [Developers](#developers)
 
 ## Project Status
 
