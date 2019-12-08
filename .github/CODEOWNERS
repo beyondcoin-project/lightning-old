@@ -4,16 +4,16 @@
 # also can optionally require approval from a code owner before the
 # author can merge a pull request in the repository.
 
-wallet/                 @cdecker
-*.py                    @cdecker
+wallet/                 @Tech1k
+*.py                    @Tech1k
 
-wallet/invoices.*       @ZmnSCPxj
-lightningd/payalgo.*    @ZmnSCPxj
+wallet/invoices.*       @Tech1k
+lightningd/payalgo.*    @Tech1k
 
-common/param.*          @wythe
-common/json.*           @wythe
-common/json_tok.*       @wythe
-common/wallet_tx.*      @wythe
+common/param.*          @Tech1k
+common/json.*           @Tech1k
+common/json_tok.*       @Tech1k
+common/wallet_tx.*      @Tech1k
 
 # See https://help.github.com/articles/about-codeowners/ for more
 # information
