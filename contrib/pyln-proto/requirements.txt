@@ -1,2 +1,2 @@
-cryptography==2.7
+cryptography==3.2
 coincurve==12.0.0
